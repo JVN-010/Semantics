@@ -1,0 +1,28 @@
+.container {
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  float: right;
+}
+.head,
+.navigation {
+  width: 194px;
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+  padding: 2px;
+  border: 1px dotted red;
+}
+.section,
+.article {
+  height: 50px;
+  width: 140px;
+  border: 2px solid burlywood;
+  /* float: right; */
+}
+.aside {
+  height: 100px;
+  width: 55px;
+  float: right;
+  border: 1px solid blueviolet;
+}
